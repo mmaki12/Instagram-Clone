@@ -1,0 +1,24 @@
+
+.self-container{
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 60px;
+
+}
+#head{
+    
+    font-size: 1.2pc;
+    text-align-last: center;
+    background-color: rgb(252, 255, 255);
+}
+.content{
+    background-origin: auto;
+    border-right: 15cm;
+
+}
+
+#q{
+    size: 12cm;
+}
